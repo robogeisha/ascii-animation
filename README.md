@@ -1,5 +1,8 @@
 # ascii-animation
 
+
+cowboy_shoot_move.c
+
 This simple terminal-based cowboy shooting game allows the player to control a cowboy character and shoot bullets. The player can move the cowboy up, down, left, and right using the arrow keys and shoot bullets using the spacebar. The game runs in an infinite loop, and the player can keep shooting bullets and moving the cowboy around the screen.
 
 Instructions:
