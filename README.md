@@ -12,6 +12,8 @@ Run the compiled program with ./cowboy_shoot_move
 Use the arrow keys to move the cowboy around the screen.
 Press the spacebar to shoot bullets.
 Press 'CTRL + C' to exit the game.
+
+
 Code Explanation:
 
 The code defines constants for the maximum number of bullets, bullet speed, bullet symbol, cowboy symbol, screen height, and screen width.
@@ -21,6 +23,8 @@ The kbhit function checks if a keyboard input is available.
 The flush_input_buffer function flushes the input buffer to avoid repeated inputs.
 The handle_input function processes user input to move the cowboy and shoot bullets.
 The main function initializes the cowboy, bullets, and terminal settings, then runs an infinite loop to handle user input, move bullets, and update the screen.
+
+
 Dependencies:
 
 This code requires the C standard library.
